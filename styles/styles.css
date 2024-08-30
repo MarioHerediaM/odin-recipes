@@ -1,0 +1,32 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+  outline: solid red;
+}
+
+h1 {
+  background-color: aliceblue;
+  text-align: center;
+}
+
+a {
+  color: brown;
+}
+
+li {
+  padding: 50px;
+}
+
+.uno{
+  background-color: red;
+}
+
+.dos {
+  background-color: blueviolet;
+  color: white;
+}
+
+div {
+  background-color: blue;
+  padding: 1em;
+  margin: auto;
+}
